@@ -1,0 +1,21 @@
+
+.d-flex{
+    align-items: center;
+    width: 50%;
+}
+
+.jumi 
+{
+    display: flex;
+    align-items: center;
+
+}
+.table{
+    border: 500px;
+    width: 50%;
+    height: 40%;
+    
+}
+.tablelist{
+    display: flex;
+}
